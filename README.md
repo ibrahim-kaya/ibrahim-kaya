@@ -32,6 +32,6 @@
  
  <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahim-kaya&show_icons=true&locale=en&layout=compact" alt="ibrahim-kaya" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahim-kaya&show_icons=true&locale=en&layout=compact" alt="ibrahim-kaya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahim-kaya&show_icons=true&locale=en" alt="ibrahim-kaya" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahim-kaya&show_icons=true&locale=en" alt="ibrahim-kaya" /></p>
