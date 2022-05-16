@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Livewire, React, Nodejs,**
 
-- 👨‍💻 All of my projects are available at **[ibrahimkaya.dev](https://ibrahimkaya.dev)**
+- 👨‍💻 Some of my projects are available at **[ibrahimkaya.dev](https://ibrahimkaya.dev)**
 
 - 📫 How to reach me **iletisim@ibrahimkaya.dev** or **kaya_ibrahim@msn.com**
 
