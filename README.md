@@ -1,5 +1,7 @@
+<p align="center"> <img src="https://ibrahimkaya.dev/images/logo/ik-logo-03-alt.png" alt="ibrahim-kaya" height="200"/> </p>
+
 <h1 align="center">Hi 👋, I'm İbrahim Kaya</h1>
-<h3 align="center">A passionate fullstack developer from Turkey</h3>
+<h3 align="center">Fullstack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahim-kaya&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahim-kaya" /> </p>
 
@@ -39,3 +41,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahim-kaya&show_icons=true&locale=en" alt="ibrahim-kaya" /></p>
 
 <p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-kaya&" alt="ibrahim-kaya" /></p>
+
+<hr>
+
+<p align="center"> <img src="https://ibrahimkaya.dev/images/logo/ik-logo-mini-alt.png" alt="ibrahim-kaya" height="100"/> </p>
