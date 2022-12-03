@@ -1,4 +1,12 @@
-<p align="center"> <img src="https://ibrahimkaya.dev/images/logo/ik-logo-03-alt.png" alt="ibrahim-kaya" height="200"/> </p>
+<p align="center"> 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ibrahimkaya.dev/images/logo/ik-logo-03-alt.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://ibrahimkaya.dev/images/logo/ik-logo-01.png">
+  <img src="https://ibrahimkaya.dev/images/logo/ik-logo-01.png" height="200">
+</picture>
+</p>
+
+
 
 <h1 align="center">Hi 👋, I'm İbrahim Kaya</h1>
 <h3 align="center">Fullstack Developer</h3>
@@ -44,4 +52,10 @@
 
 <hr>
 
-<p align="center"> <img src="https://ibrahimkaya.dev/images/logo/ik-logo-mini-alt.png" alt="ibrahim-kaya" height="100"/> </p>
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ibrahimkaya.dev/images/logo/ik-logo-mini-alt.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://ibrahimkaya.dev/images/logo/ik-logo-mini.png">
+  <img src="https://ibrahimkaya.dev/images/logo/ik-logo-mini.png" height="100">
+</picture>
+</p>
