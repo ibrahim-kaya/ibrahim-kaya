@@ -21,7 +21,7 @@
 
 - 👨‍💻 Some of my projects are available at **[ibrahimkaya.dev](https://ibrahimkaya.dev)**
 
-- 📫 How to reach me **iletisim@ibrahimkaya.dev** or **kaya_ibrahim@msn.com**
+- 📫 How to reach me **me@ibrahimkaya.dev** or **kaya_ibrahim@msn.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
