@@ -52,7 +52,7 @@
  
  <hr>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahim-kaya" alt="ibrahim-kaya" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahim-kaya&theme=onedark" alt="ibrahim-kaya" /></a> </p>
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahim-kaya&show_icons=true&locale=en&layout=compact" alt="ibrahim-kaya" /></p>
 
