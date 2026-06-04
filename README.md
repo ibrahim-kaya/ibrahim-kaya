@@ -8,59 +8,144 @@
  </a>
 </p>
 
+<br />
 
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm İbrahim Kaya</h1>
-<h3 align="center">Laravel Developer</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=PHP+%2F+Laravel+Backend+Developer;Building+SaaS+%26+REST+APIs;PostgreSQL+%C2%B7+Redis+%C2%B7+MySQL;Visit+Now!+%7C+ibrahimkaya.dev)](https://ibrahimkaya.dev)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahim-kaya&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahim-kaya" /> </p>
+</div>
 
-- 🔭 I’m currently working with **Laravel, PHP**
+---
 
-- 🌱 I’m currently learning **Livewire, React, Nodejs,**
+## `$ whoami`
 
-- 👨‍💻 Some of my projects are available at **[ibrahimkaya.dev](https://ibrahimkaya.dev)**
+Backend developer with **4+ years** of professional experience, specializing in **PHP/Laravel** ecosystems. I build scalable SaaS platforms, REST APIs, and custom management systems. I also publish open-source Laravel packages and maintain a personal developer blog at **[ibrahimkaya.dev](https://ibrahimkaya.dev)**.
 
-- 📫 How to reach me **me@ibrahimkaya.dev** or **kaya_ibrahim@msn.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kaya-ibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaya-ibrahim" height="30" width="40" /></a>
-</p>
+## `$ cat tech-stack.json`
 
-<hr>
+```json
+{
+  "primary":    ["PHP", "Laravel", "NodeJS"],
+  "caching":    ["Redis"],
+  "frontend":   ["JavaScript", "jQuery", "Blade"],
+  "tools":      ["Git", "Docker", "Linux"],
+  "networking": ["MikroTik", "CAPsMAN", "Hotspot Systems"]
+}
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/></a> 
- <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
- </p>
- 
- <br>
- 
- <h3 align="left">Learning:</h3>
-<p align="left"> 
- <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
-  <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="nodejs" width="40" height="40"/></a> 
- </p>
- 
- <hr>
+---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-kannan.vercel.app/?username=ibrahim-kaya" alt="ibrahim-kaya" /></a> </p>
+## `$ ls -la skills/`
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahim-kaya&show_icons=true&locale=en&layout=compact" alt="ibrahim-kaya" /></p>
+| Area | Technologies |
+|------|-------------|
+| **Backend** | PHP · Laravel · REST API Design · NodeJS|
+| **Database** | PostgreSQL · MySQL · Redis · Query Optimization |
+| **Frontend** | JavaScript · jQuery · Blade|
+| **DevOps** | Git · Linux · Docker |
+| **Integrations** | Virtual POS · SMS APIs · WhatsApp API · Webhooks · Payment Gateways |
+| **Networking** | MikroTik · CAPsMAN · Hotspot Management |
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahim-kaya&show_icons=true&locale=en" alt="ibrahim-kaya" /></p>
+---
 
-<p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-kaya&" alt="ibrahim-kaya" /></p>
+## `$ git log --oneline --projects`
 
-<hr>
+```bash
+# SaaS Platforms
+f9a1c32  [hotspot-saas]   Multi-tenant hotspot management platform (wildcard subdomain architecture)
+b3e7d18  [whatsapp-hub]   WhatsApp multi-account gateway — connect accounts, send/receive via API
+a6f2b90  [crm]            Customer relationship management system for ISP companies
+
+# Integration Projects
+c4d1a75  [integrations]   Virtual POS, SMS marketing, loyalty systems, payment gateways
+e8b3f21  [e-commerce]     Custom e-commerce systems with full order management
+
+# Open Source Laravel Packages
+92a4c10  📦 ImageMan       Image upload, WebP/AVIF conversion, multi-size variants & multi-disk mgmt
+77f3d28  📦 visit-tracker  Auto-track page visits: IP, browser, device, referrer, geolocation
+4b1e9a5  📦 error-tracker  Capture, deduplicate & manage unhandled exceptions with full HTTP context
+```
+
+---
+
+## `$ composer show --packages`
+
+<table>
+<tr>
+<td width="33%">
+
+### 📦 [ImageMan](https://github.com/ibrahim-kaya/ImageMan)
+Professional image upload & processing. WebP/AVIF conversion, multi-size variants, multi-disk support, watermarking, CDN integration & more.
+
+[![Packagist](https://img.shields.io/packagist/v/ibrahim-kaya/imageman.svg?style=flat-square)](https://packagist.org/packages/ibrahim-kaya/imageman)
+[![Downloads](https://img.shields.io/packagist/dt/ibrahim-kaya/imageman.svg?style=flat-square)](https://packagist.org/packages/ibrahim-kaya/imageman)
+
+</td>
+<td width="33%">
+
+### 📦 [visit-tracker](https://github.com/ibrahim-kaya/visit-tracker)
+Automatic page visit tracking with IP geolocation, browser/device detection, referrer logging, queue support & rich analytics.
+
+[![Packagist](https://img.shields.io/packagist/v/ibrahim-kaya/visit-tracker.svg?style=flat-square)](https://packagist.org/packages/ibrahim-kaya/visit-tracker)
+[![Downloads](https://img.shields.io/packagist/dt/ibrahim-kaya/visit-tracker.svg?style=flat-square)](https://packagist.org/packages/ibrahim-kaya/visit-tracker)
+
+</td>
+<td width="33%">
+
+### 📦 [error-tracker](https://github.com/ibrahim-kaya/error-tracker)
+Zero-config exception capture, smart deduplication, full HTTP context, severity levels, status lifecycle & dashboard statistics.
+
+[![Packagist](https://img.shields.io/packagist/v/ibrahim-kaya/error-tracker.svg?style=flat-square)](https://packagist.org/packages/ibrahim-kaya/error-tracker)
+[![Downloads](https://img.shields.io/packagist/dt/ibrahim-kaya/error-tracker.svg?style=flat-square)](https://packagist.org/packages/ibrahim-kaya/error-tracker)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ env | grep STATS`
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-stats.zcy.dev/api?username=ibrahim-kaya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8)
+
+![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs?username=ibrahim-kaya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8)
+
+</div>
+
+---
+
+## `$ ping contact`
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/ibrahimkaya.dev-visit-38BDF8?style=for-the-badge&logo=safari&logoColor=white)](https://ibrahimkaya.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahim-kaya)
+[![Packagist](https://img.shields.io/badge/Packagist-packages-F28D1A?style=for-the-badge&logo=packagist&logoColor=white)](https://packagist.org/packages/ibrahim-kaya/)
+
+</div>
+
+---
+
+```php
+<?php
+
+class Ibrahim extends BackendDeveloper
+{
+    public array  $stack      = ['PHP', 'Laravel', 'NodeJS', 'JavaScript'];
+    public bool   $available  = true; // open to opportunities
+    public string $website    = 'ibrahimkaya.dev';
+
+    public function currentlyBuilding(): string
+    {
+        return 'SaaS · Open Source Laravel Packages · Integrations';
+    }
+}
+```
 
 <p align="center">
  <a href="https://ibrahimkaya.dev/" target="_blank" rel="noreferrer" title="ibrahimkaya.dev">
